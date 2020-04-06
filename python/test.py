@@ -3,9 +3,8 @@ import matplotlib.pyplot as plt
 import time
 
 t1 = time.time()
-print("hello")
 
-print("dadum")
+print("Hello")
 print(np.sin(3.14))
 time.sleep(5.2)
 t2 = time.time()-t1
